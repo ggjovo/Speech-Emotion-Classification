@@ -1,0 +1,1 @@
+{"algorithm": "ball_tree", "metric": "manhattan", "n_neighbors": 10, "weights": "distance"}
